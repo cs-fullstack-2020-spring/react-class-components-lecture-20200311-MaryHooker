@@ -8,7 +8,7 @@ body{
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
+  font-size: 20px;
   color: white;
   border: 15px solid rgb(31, 107, 31);
   border-radius: 30%;
@@ -21,4 +21,27 @@ body{
 
 .blueText{
   color: rgb(62, 62, 161);
+}
+
+.pinkText{
+  color: rgb(179, 79, 96);
+}
+
+.greenText{
+  color:  rgb(31, 107, 31);
+  font-weight: bold;
+}
+
+.redText{
+  color: rgb(134, 38, 38);
+  font-weight: bold;
+}
+
+.orangeText{
+  color: rgb(153, 102, 6);
+}
+
+.yellowText{
+  color: rgb(112, 112, 11);
+  font-weight: bold;
 }
