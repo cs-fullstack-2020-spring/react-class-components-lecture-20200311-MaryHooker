@@ -1,0 +1,24 @@
+body{
+  background-color: rgb(179, 79, 96);
+}
+.App-header {
+  background-color: #9ca336;
+  min-height: 96vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+  border: 15px solid rgb(31, 107, 31);
+  border-radius: 30%;
+}
+
+
+.purpleText{
+  color: rgb(141, 36, 141);
+}
+
+.blueText{
+  color: rgb(62, 62, 161);
+}
