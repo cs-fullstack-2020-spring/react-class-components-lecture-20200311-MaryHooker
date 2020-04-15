@@ -3,6 +3,10 @@ import Teacher from './Teacher';
 import Students from './Students';
 
 class ClassRoom extends Component {
+    constructor(props){
+        super(props);
+    }
+    
     render(){
         const students = ['Jeff','Brandon','Chris','Charles'];
         return(
